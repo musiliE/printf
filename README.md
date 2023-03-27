@@ -20,3 +20,4 @@ The printf project is a collaboration between Eric Musili and Susan Mulinge. The
 | `13-`| Print is the sharpest and the strongest weapon of our party |
 | `14-`| The flood of print has turned reading into a process of gulping rather than savoring |
 | `15-`| * All above functions work well together |
+
